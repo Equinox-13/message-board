@@ -25,7 +25,7 @@ SECRET_KEY = '1s*%^(cai1scp%40)*s7(ih(rd*=lu*^pfw7sx1ao0lc50h5il'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
